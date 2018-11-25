@@ -4,7 +4,7 @@ public class FirstClass2 {
 
     public static void main(String[] args) {
 
-        int x = 1000
+        int x = 1000;
 
     }
 
